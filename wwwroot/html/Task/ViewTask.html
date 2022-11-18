@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ViewTask</title>
+  <link href="../../css/System/Common.css" type="text/css" rel="stylesheet" />
+  <link href="../../css/Task/Task.css" type="text/css" rel="stylesheet" />
+  <link href="../../css/Task/ViewTask.css" type="text/css" rel="stylesheet" />
+<body>
+  <div class="header">
+    <embed id="MenuLogo" class="logo" src="https://images.encompass8.com/GlobalDocs/701254.svg">
+    <div class="account">
+      <img src="../../image/person.svg" class="user-icon">
+      <span id="UserName">{{UserName}}</span>
+    </div>
+  </div>
+  <div class="content">
+    <div class="title-bar">
+      <a href="/Home?DashboardID=2">Tasks</a>
+      <a href="/Home?DashboardID=5">
+        <div class="button"><img src="../../image/add.svg" class="ews-icon ews-icon-add"> Add Tasks</div>
+      </a>
+    </div>
+   
+    <table class="task-table">
+      <thead>
+        <tr>
+          <td class="parent"></td>
+          <td class="parent"></td>
+          <td class="parent">Task ID</td>
+          <td class="parent">Project</td>
+          <td class="parent">Task</td>
+          <td class="parent">Assign To</td>
+          <td class="parent">TimeUpdated</td>
+          <td class="parent">UpdatedBy</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="parent-row">
+          <td class="link-icon-column">
+            <a href="/Home?DashboardID=4" title="Edit" class="ews-icon-edit">
+              <img src="../../image/edit.svg" />
+            </a>
+          </td>
+          <td class="link-icon-column">
+            <img src="../../image/delete.svg" />
+          </td>
+          <td>993894</td>
+          <td>
+            <a href="">Project</a>
+          </td>
+          <td>
+            Design September news for ERIC.
+          </td>
+          <td>
+            ZhangSan
+          </td>
+          <td>
+            10/13/2021 1:46PM
+          </td>
+          <td>
+            ZhangSan
+          </td>
+        </tr>
+        <tr>
+          <td class="SubTableCell" colspan="100%">
+            <table class="sub-table">
+              <thead>
+                <tr>
+                  <td colspan="100%" class="sub-title-bar">
+                    Task Details
+                    <a  href="/Home?DashboardID=4&TaskID=993894">
+                      <div class="button-light">
+                        <img src="../../image/add-bold.svg" class="ews-icon ews-icon-add-black"> Add Task Details
+                      </div>
+                    </a>
+                  </td>
+                </tr>
+                <tr class="sub-title">
+                  <td></td>
+                  <td></td>
+                  <td>Task Detail ID</td>
+                  <td>Task Detail</td>
+                  <td>Time Created</td>
+                  <td>Created By</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="link-icon-column">
+                    <a href="/Home?DashboardID=9&TaskDetailID=10241704" title="Edit" class="ews-icon-edit"><img src="../../image/edit.svg" /></a>
+                  </td>
+                  <td class="link-icon-column">
+                    <img src="../../image/delete.svg" />
+                  </td>
+                  <td>10241704</td>
+                  <td>电影推荐</td>
+                  <td>10/7/2021 2:38 PM</td>
+                  <td>ZhangSan</td>
+                </tr>
+                <tr>
+                  <td class="link-icon-column">
+                    <a href="/Home?DashboardID=9&TaskDetailID=10241704" title="Edit" class="ews-icon-edit"><img src="../../image/edit.svg" /></a>
+                  </td>
+                  <td class="link-icon-column">
+                    <img src="../../image/delete.svg" />
+                  </td>
+                  
+                  <td>10241703</td>
+                  <td>书籍推荐</td>
+                  <td>10/7/2021 2:38 PM</td>
+                  <td>ZhangSan</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>

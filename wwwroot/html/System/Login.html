@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <title></title>
+    <link href="../../css/System/Login.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/System/Login.css" />
+    <link rel="stylesheet" href="../../css/System/Menu.css" />
+
+
+</head>
+
+
+
+<body>
+    <img class="menu-logo" width="160px" src="https://images.encompass8.com/Support/S3Images/63691587957892d7d877e28f50005e01.jpg" />
+    <ul class="menus">
+        <li class="menu-item-txt">Home</li>
+        <li class="menu-item-txt">Solutions</li>
+        <li class="menu-item-txt">Industries</li>
+        <li class="menu-item-txt">Support</li>
+        <li class="menu-item-txt">Partner</li>
+        <li class="menu-item-txt">About</li>
+        <li class="menu-item-txt">
+            <a href="#">
+                Let's Talk
+            </a>
+        </li>
+        <li class="menu-item-txt">
+            <a href="#">
+                Log On
+            </a>
+        </li>
+    </ul>
+    <div class="box">
+        <div class="login-box">
+            <div class="login-title text-center">
+                <h1><small>Login</small></h1>
+            </div>
+            <div class="login-content ">
+                <div class="form">
+                    <form method="post" id="login-form" name="loginForm" action="login.action" onsubmit="submitLogin()">
+                        <div class="form-group">
+                            <div class="col-xs-12  ">
+                                <div class="input-group">
+                                    <span class="input-group-addon"><span
+                                            class="glyphicon glyphicon-user"></span></span>
+                                    <input type="text" id="login-username" name="Username" class="form-control" placeholder="用户名">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-12  ">
+                                <div class="input-group">
+                                    <span class="input-group-addon"><span
+                                            class="glyphicon glyphicon-lock"></span></span>
+                                    <input type="password" id="login-password" name="Password" class="form-control" placeholder="密码">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-12" style="text-align:center;">
+                                <button type="button" class="btn btn-sm btn-info" id="Submit">登录</button>
+
+                                <button type="button" class="btn btn-sm btn-info" onclick="javascript:window.location.href='/Home?DashboardID=4'">注册</button>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-6 link">
+                                <p class="text-center remove-margin"><small></small> </p>
+                            </div>
+                        </div>
+                        <input type="hidden" name="request_locale" value="zh_CN">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../../js/System/Login.js"></script>
+    <script src="../../js/System/md5.js"></script>
+
+</body>
+
+</html>

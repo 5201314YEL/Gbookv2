@@ -1,0 +1,60 @@
+body {
+  font-family: 'Open Sans', 'Segoe UI', 'SF Pro Text', Helvetica,
+    'Helvetica Neue', Arial, Tahoma, sans-serif;
+  margin: 0;
+}
+
+.header {
+  padding: 5px 12px 2px 12px;
+  min-height: 40px;
+  border-top: 6px solid #ebc551;
+  box-shadow: 0 6px 4px -3px rgb(0 0 0 / 20%);
+  background: #fff;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+a{
+  color: #0051a3;
+  text-decoration: none;
+}
+.ews-icon {
+  width: 10px;
+}
+
+.logo {
+  width: 98px;
+}
+
+.account {
+  float: right;
+  line-height: 30px;
+}
+
+.user-icon {
+  width: 25px;
+  vertical-align: middle;
+}
+
+.content {
+  background-color: #e5e5e5;
+  font-size: 13px;
+  box-sizing: border-box;
+  padding: 10px;
+  height: calc(100vh - 50px);
+}
+input,
+select {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  margin: 0;
+  height: 27px;
+  padding: 0 5px;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.parent {
+  font-size: 13px;
+  border-bottom: 2px solid #ebc551;
+}

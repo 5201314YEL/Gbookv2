@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TasksList</title>
+    <link href="../../css/System/Common.css" type="text/css" rel="stylesheet" />
+    <link href="../../css/Task/Task.css" type="text/css" rel="stylesheet" />
+
+    <body>
+        <div class="header">
+            <embed id="MenuLogo" class="logo" src="https://images.encompass8.com/GlobalDocs/701254.svg">
+            <div class="account">
+                <img src="../../image/person.svg" class="user-icon">
+                <span id="UserName"></span>
+            </div>
+        </div>
+        <div class="content">
+            <div class="title-bar">Tasks
+                <a href="/Home?DashboardID=5">
+                    <div class="button">
+                        <img src="../../image/add.svg" class="ews-icon ews-icon-add"> Add Tasks
+                    </div>
+                </a>
+            </div>
+
+            <div class="filter-container">
+                <div class="field-colum">
+                    <div>Task ID</div>
+                    <div><input type="text" name="taskID" id="TaskID" /></div>
+                </div>
+                <div class="field-colum">
+                    <div>Task</div>
+                    <div><input type="text" name="task" id="Task" /></div>
+                </div>
+                <div class="field-colum">
+                    <div>Assign To</div>
+                    <div><input type="text" name="assignTo" id="AssignedToUserID" /></div>
+                </div>
+                <div class="field-colum" id="SearchBtn">
+                    <div class="search-container">
+                        <img src="../../image/search.svg" class="ews-icon-search">search
+                    </div>
+                </div>
+            </div>
+
+            <table class="task-table">
+                <thead>
+                    <tr>
+                        <td class="parent"></td>
+                        <td class="parent"></td>
+                        <td class="parent"></td>
+                        <td class="parent">Task ID</td>
+                        <td class="parent">Project</td>
+                        <td class="parent">Task</td>
+                        <td class="parent">Assign To</td>
+                        <td class="parent">TimeUpdated</td>
+                        <td class="parent">UpdatedBy</td>
+                    </tr>
+                </thead>
+                <tbody class="task-body">
+
+                </tbody>
+            </table>
+            <div id="pagingArea" style="display: flex;"></div>
+        </div>
+        <script src="../../js/System/Menu.js"></script>
+        <script src="../../js/Task/Task.js"></script>
+
+    </body>
+
+</html>

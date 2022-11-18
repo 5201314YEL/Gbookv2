@@ -1,0 +1,56 @@
+.main{
+    position: relative;
+    top: 50px;
+    margin: 35px auto;
+    width: 350px;
+    height: -1px;
+    background: #d55353f0;
+    padding: 27px 80px;
+    border-radius: 8px;
+    box-shadow: 0px 15px 10px -15px black;
+}
+
+.main1{
+    position: relative;
+    top: 50px;
+    margin: 0 auto;  
+    width: 1500px;
+    height: 782px;
+    background-color: gainsboro;
+    border-radius:10px
+}
+body {
+    background: #ccc;
+    height: 100%;
+}
+.AddTask{
+    position: relative;
+    top: 15px;
+    left: 340px;
+    width:65px;
+    height:21px;
+    /* border:1px solid rgb(0, 0, 0) */
+}
+.headbox{
+    width: auto;
+    height: 80px;
+    background-color: rgb(15, 158, 214);
+    border-radius: 5px;
+    box-shadow: 0px 15px 10px -15px black;
+}
+
+.BackTaskList{
+    position: absolute;
+    top: 35px;
+    left: 55px;
+
+}
+.title{
+    position: relative;
+    top: 28px;
+    left: 890px;
+}
+/* .textarea{
+    width: 325px;
+    height: 120px;
+} */

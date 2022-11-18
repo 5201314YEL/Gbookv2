@@ -1,0 +1,142 @@
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\appsettings.Development.json
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\appsettings.json
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Gbookv2.exe
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Gbookv2.deps.json
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.json
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.dev.json
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Gbookv2.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\ref\Gbookv2.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Gbookv2.pdb
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.csprojAssemblyReference.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfoInputs.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfo.cs
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CoreCompileInputs.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.MvcApplicationPartsAssemblyInfo.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\staticwebassets\Gbookv2.StaticWebAssets.Manifest.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\staticwebassets\Gbookv2.StaticWebAssets.xml
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\scopedcss\bundle\Gbookv2.styles.css
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.RazorTargetAssemblyInfo.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\ref\Gbookv2.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.pdb
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.genruntimeconfig.cache
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\MySql.Data.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CopyComplete
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Google.Protobuf.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\Zstandard.Net.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\工作室能源学院\WebAPI\Gbook\Gbookv2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\appsettings.Development.json
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\appsettings.json
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Gbookv2.exe
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Gbookv2.deps.json
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.json
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.dev.json
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Gbookv2.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\ref\Gbookv2.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Gbookv2.pdb
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Google.Protobuf.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\MySql.Data.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Zstandard.Net.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.AssemblyReference.cache
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfoInputs.cache
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfo.cs
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CoreCompileInputs.cache
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.MvcApplicationPartsAssemblyInfo.cache
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\staticwebassets\Gbookv2.StaticWebAssets.Manifest.cache
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\scopedcss\bundle\Gbookv2.styles.css
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.RazorTargetAssemblyInfo.cache
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CopyComplete
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.dll
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\ref\Gbookv2.dll
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.pdb
+D:\10 C#\project\chapter02\Gbookv2\obj\Debug\net5.0\Gbookv2.genruntimeconfig.cache
+D:\10 C#\project\chapter02\Gbookv2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\appsettings.Development.json
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\appsettings.json
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Gbookv2.exe
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Gbookv2.deps.json
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.json
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.dev.json
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Gbookv2.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Gbookv2.pdb
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Google.Protobuf.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\MySql.Data.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Zstandard.Net.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\项目作业2\Gbookv2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.AssemblyReference.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfoInputs.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfo.cs
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CoreCompileInputs.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.MvcApplicationPartsAssemblyInfo.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\scopedcss\bundle\Gbookv2.styles.css
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\staticwebassets\Gbookv2.StaticWebAssets.Manifest.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.RazorTargetAssemblyInfo.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CopyComplete
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.dll
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\refint\Gbookv2.dll
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.pdb
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\Gbookv2.genruntimeconfig.cache
+D:\项目作业2\Gbookv2\obj\Debug\net5.0\ref\Gbookv2.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\appsettings.Development.json
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\appsettings.json
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Gbookv2.exe
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Gbookv2.deps.json
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.json
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Gbookv2.runtimeconfig.dev.json
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Gbookv2.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Gbookv2.pdb
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\MySql.Data.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Zstandard.Net.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.AssemblyReference.cache
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfoInputs.cache
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.AssemblyInfo.cs
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CoreCompileInputs.cache
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.MvcApplicationPartsAssemblyInfo.cache
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\staticwebassets\Gbookv2.StaticWebAssets.Manifest.cache
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\scopedcss\bundle\Gbookv2.styles.css
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.RazorTargetAssemblyInfo.cache
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.csproj.CopyComplete
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.dll
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\ref\Gbookv2.dll
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.pdb
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\Gbookv2.genruntimeconfig.cache
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\package-lock.json
+D:\Gbookv2\Gbookv2\bin\Debug\net5.0\package.json
+D:\Gbookv2\Gbookv2\obj\Debug\net5.0\refint\Gbookv2.dll

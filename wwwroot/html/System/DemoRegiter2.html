@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="../../css/System/1.css" rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Hind&display=swap" rel="stylesheet">
+    <link href="../../css/System/Menu.css">
+</head>
+
+<body>
+
+    <div class="login-form">
+        <h1 style="text-align:center">Register</h1>
+
+        <div class="textbox">
+            <input type="text" placeholder="用户名" name="name" id="UserName">
+            <span class="check-message hidden">不能为空</span>
+        </div>
+        <div class="textbox">
+            <input type="text" placeholder="密码" id="Password" name="Password">
+            <span class="check-message hidden">不能为空</span>
+        </div>
+        <div class="textbox">
+            <input type="text" placeholder="邮箱" id="Email" name="Email">
+            <span class="check-message hidden">不能为空</span>
+        </div>
+        <div class="textbox">
+            <input type="text" placeholder="电话" id="Phone" name="Phone">
+            <span class="check-message hidden">不能为空</span>
+        </div>
+        <div class="textbox">
+            <input type="text" placeholder="名称" id="NickName" name="NickName">
+            <span class="check-message hidden">不能为空</span>
+        </div>
+
+        <button type="submit" id="Register" class="login-btn">注册账号</button>
+        <div class="privacy-link">
+            <a href="#">注册中心</a>
+        </div>
+
+        <div class="dont-have-account">
+            已有账号？
+            <a href="https://localhost:5001/Home">登录</a>
+        </div>
+    </div>
+
+    <script src="../../js/System/DemoRegister2.js"></script>
+    <script src="../../js/System/md5.js"></script>
+
+</body>
+
+</html>

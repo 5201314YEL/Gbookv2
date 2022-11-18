@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Add Task</title>
+  <link href="../../css/System/Common.css" type="text/css" rel="stylesheet" />
+  <link href="../../css/Task/EditTask.css" type="text/css" rel="stylesheet" />
+ 
+  <body>
+    <!-- <marquee behavior="" direction="">的经济独家度假酒店</marquee> -->
+  <div class="header">
+    <embed id="MenuLogo" class="logo" src="https://images.encompass8.com/GlobalDocs/701254.svg">
+    <div class="account">
+      <img src="../../image/person.svg" class="user-icon">
+      <span id="UserName">{{UserName}}</span>
+    </div>
+  </div>
+  <div class="content">
+    <div class="title-bar"><b>Add Task</b>
+      <div class="button" id="AddTask"> Add Record</div>
+    </div>
+    <div>
+      <div class="left-content">
+        <div class="category">Task Property</div>
+        <table class="table-content">
+          <tbody>
+            <tr>
+              <td class="title">* Project</td>
+              <td>
+                <select class="filter" id="ProjectID">
+                  <option></option>
+                  <option value="1">Project</option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td class="title">* Assign To</td>
+              <td>
+                <select id="AssignedToUserID">
+                  <option></option>
+                  <option value="1">ZhangSan</option>
+                </select>
+              </td>
+            </tr>
+            <tr>
+              <td class="title">Status</td>
+              <td>
+                Assigned
+              </td>
+            </tr>
+            <tr>
+              <td class="title">Time Updated</td>
+              <td id="TimeUpdated">10/12/2021 8:56 AM</td>
+            </tr>
+            <tr>
+              <td class="title">Updated By</td>
+              <td id="UpdatedBy">ZhangSan</td>
+            </tr>
+            <tr>
+              <td class="title">Time Created</td>
+              <td id="TimeCreated">10/12/2021 8:56 AM</td>
+            </tr>
+            <tr>
+              <td class="title">Created By</td>
+              <td id="CreatedBy">ZhangSan</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="center-content">
+        <div class="category">Task </div>
+        <table class="task-table-content">
+          <tbody>
+            <tr>
+              <td class="title">Task Title</td>
+              <td>
+                <textarea id="Task" name="Task"></textarea>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="category">Task Detail</div>
+        <div id="TaskDetail" class="task-detail-container" contenteditable="true">
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="../../js/System/Menu.js"></script>
+  <script src="../../js/Task/AddEditTask.js"></script>
+</body>
+
+</html>

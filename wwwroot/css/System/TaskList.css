@@ -1,0 +1,94 @@
+.UserName{
+    float:right;
+    width: 81px;
+    height: 21px;
+    border: 2px  dashed blue;
+    position: relative;
+    right: 40px;
+    top: 4px;
+    
+}
+
+body {
+    background: #ccc;
+    height: 100%;
+}
+
+.main{
+    position: relative;
+    top: 50px;
+    margin: 0 auto;  
+    width: 1500px;
+    height: 782px;
+    background-color: gainsboro;
+    border-radius:10px
+}
+
+.QueryBox{
+    position: relative;
+    box-shadow: 0px 15px 10px -15px black;
+    top: 30px;
+    margin: 0 auto;
+    width: 1000px;
+    height: 730px;
+    background-color: #58bdec;
+    border-radius:5px
+}
+
+.SearchBox{
+    position: relative;
+    left: 105px;
+    top: 27px;
+}
+.headbox{
+    width: auto;
+    height: 80px;
+    background-color: rgb(15, 158, 214);
+    border-radius: 5px;
+    box-shadow: 0px 15px 10px -15px black;
+    }
+
+.addtask{
+    position: relative;
+    left: 40px;
+    top: 4px;
+}
+
+.table{
+    position: relative;
+    top: 30px;
+}
+
+
+.TaskList{
+    position: relative;
+    top: 35px;
+    left: 160px;
+}
+
+.title{
+    position: relative;
+    top: 28px;
+    left: 890px;
+}
+/* .bg{
+    background-color: gray;
+} */
+
+
+#pagingArea div{
+    padding:10px 3px;
+    cursor: pointer;
+    color: #0051a3;
+  }
+  
+  #pagingArea span{
+    padding:0px 5px;
+    cursor: pointer;
+    color: #0051a3;
+  }
+  
+  #pagingArea .noEvent{
+    padding:0px 5px;
+    color: #000000;
+  }

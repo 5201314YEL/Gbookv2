@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task系统</title>
+    <link href="../css/System/Common.css" type="text/css" rel="stylesheet" />
+    <script src="../js/System/common.js"></script>
+    <script>
+        function loadFunction(url) {
+            document.getElementById("systemMainContext").src = url;
+        }
+
+        const topAndOtherHeight = 150;
+
+        function setIframeHeight(iframe) {
+            const contextHeight = "calc(100vh - 100px)";
+            document.getElementById("rightLayout").style.height = contextHeight;
+            document.getElementById("leftLayout").style.height = contextHeight;
+            document.getElementById("systemMainContext").style.height = contextHeight;
+        };
+
+        function showChildMenu(el) {
+            const isHidden = el.nextElementSibling.style.display === "none";
+            el.nextElementSibling.style.display = isHidden ? "" : "none";
+        }
+    </script>
+</head>
+
+<body style="background-image: url(../image/add-bold.svg);" onload="setIframeHeight()">
+    <!-- <div class="header">
+
+        <div class="account">
+            <img src="../image/person.svg" class="user-icon">
+            <span id="UserName"></span>
+        </div>
+    </div> -->
+
+    <div>
+        <div id="leftLayout" style="position: absolute;background-color:#5f55ea;padding: 30px;height:100%">
+            <ul style="list-style: none;padding-inline-start:0;">
+                <li>
+                    <div onclick="showChildMenu(this)">系统功能</div>
+                    <ul style="list-style: none;margin: top 10px;padding-inline-start: 10px;display: none;">
+                        <li onclick="alert('待实现')">用户管理</li>
+                        <li onclick="alert('待实现')">权限管理</li>
+                        <li onclick="alert('待实现')">菜单管理</li>
+                    </ul>
+                </li>
+                <li>
+                    <div onclick="showChildMenu(this)">业务功能</div>
+                    <ul style="list-style: none;margin-top:10px;padding-inline-start:10px;display:none">
+                        <li onclick="alert('待实现')">项目管理</li>
+                        <li onclick="loadFunction('/Home?DashboardID=1')">Task管理</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div id="rightLayout" style="margin-left: 140px;">
+            <iframe src="/Home?DashboardID=0" frameborder="0" id="systemMainContext" style="width:100%;"></iframe>
+        </div>
+    </div>
+    <script src="../js/System/Menu.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,167 @@
+body {
+    font-family: 'Open Sans', 'Segoe UI', 'SF Pro Text', Helvetica, 'Helvetica Neue', Arial, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.header {
+    padding: 5px 12px 2px 12px;
+    min-height: 40px;
+    border-top: 6px solid #ebc551;
+    box-shadow: 0 6px 4px -3px rgb(0 0 0 / 20%);
+    background: #fff;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+a {
+    color: #0051a3;
+    text-decoration: none;
+}
+
+.ews-icon {
+    width: 10px;
+}
+
+.logo {
+    width: 98px;
+}
+
+.account {
+    float: right;
+    line-height: 30px;
+}
+
+.user-icon {
+    width: 25px;
+    vertical-align: middle;
+}
+
+.content {
+    background-color: #e5e5e5;
+    font-size: 13px;
+    box-sizing: border-box;
+    padding: 10px;
+    height: calc(100vh - 50px);
+}
+
+input,
+select {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    margin: 0;
+    height: 27px;
+    padding: 0 5px;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.parent {
+    font-size: 13px;
+    border-bottom: 2px solid #ebc551;
+}
+
+.btn {
+    width: 140px;
+    height: 50px;
+}
+
+.dialog {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 300;
+    width: 100%;
+    height: 100%;
+    background: rgb(0 0 0 / 12%);
+    user-select: none;
+}
+
+.dialog-container {
+    position: absolute;
+    z-index: 300;
+    background: #fff;
+    box-shadow: 2px 2px 10px 2px #666;
+    border-radius: 8px;
+    padding: 8px;
+    width: auto;
+    height: auto;
+    min-height: 200px;
+    min-width: 450px;
+    animation: 0s ease 0s 1 normal none running none;
+}
+
+.dialog-title {
+    padding: 2px 36px 0 8px;
+    height: 20px;
+    font-size: 11pt;
+    color: #666;
+    overflow: hidden;
+    white-space: nowrap;
+    cursor: move;
+}
+
+.dialog-content {
+    flex: 1;
+    padding: 4px 16px;
+    font-size: 16px;
+    margin: auto;
+    min-height: 117px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.dialog-footer {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    height: 47px;
+    box-sizing: border-box;
+}
+
+.dialog-confirm-button {
+    margin-left: 4px;
+    padding: 0 10px;
+    height: 27px;
+    line-height: 25px;
+    font-size: 12px;
+    color: #fff;
+    background: #000;
+    border: solid 1px #000;
+    border-radius: 3px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.dialog-close-button {
+    width: 16px;
+    height: 16px;
+    display: block;
+    position: absolute;
+    top: 12px;
+    right: 20px;
+    background: url("../../image/close_def.png") no-repeat;
+    cursor: pointer;
+}
+
+.dialog-close-button:hover {
+    background: url("../../images/close_hov.png");
+}
+
+#pagingArea div {
+    padding: 10px 3px;
+    cursor: pointer;
+    color: #0051a3;
+}
+
+#pagingArea span {
+    padding: 0px 5px;
+    cursor: pointer;
+    color: #0051a3;
+}
+
+#pagingArea .noEvent {
+    padding: 0px 5px;
+    color: #000000;
+}

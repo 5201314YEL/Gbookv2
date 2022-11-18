@@ -1,0 +1,44 @@
+body {
+    font-family: 'Open Sans', 'Segoe UI', 'SF Pro Text', Helvetica, 'Helvetica Neue', Arial, Tahoma, sans-serif;
+    margin: 0;
+}
+
+a {
+    border: none;
+    text-decoration: none;
+}
+
+.menu-container {
+    padding: 0px 15px 0px 13px;
+    min-height: 40px;
+    border-top: 6px solid #b80000;
+    box-shadow: 0 6px 4px -3px rgb(0 0 0 / 20%);
+    background: #fff;
+}
+
+.menu-logo {
+    vertical-align: middle;
+}
+
+.menus {
+    display: inline-block;
+    color: #333;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.menu-item-txt {
+    padding: 10px 15px;
+    display: inline-block;
+    border-bottom: 3px solid transparent;
+}
+
+.menu-item-txt a {
+    color: #333;
+}
+
+.menu-item-txt:hover {
+    background-color: #f5f5f5;
+    border-bottom: 3px solid #b80000;
+}

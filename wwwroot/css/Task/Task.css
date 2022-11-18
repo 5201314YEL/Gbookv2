@@ -1,0 +1,95 @@
+.title-bar {
+  color: #0051a3;
+  font-size: 17px;
+  font-weight: 400;
+  padding-left: 4px;
+}
+
+.button {
+  background: #205330;
+  border: 1px solid #143c23;
+  color: #fff;
+  height: 27px;
+  padding: 0 15px;
+  margin-left: 10px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 13px;
+  line-height: 27px;
+}
+
+.ews-icon-add {
+  border: 1px solid #fff;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.ews-icon-search {
+  width: 18px;
+  vertical-align: middle;
+}
+
+.filter-container {
+  margin-top: 10px;
+  padding: 10px;
+  min-width: 800px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.field-colum {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.search-container {
+  background: #000;
+  color: #fff;
+  height: 27px;
+  padding: 2px 12px;
+  line-height: 25px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.task-table {
+  margin-top: 10px;
+  width: 100%;
+  border-spacing: 0 6px;
+}
+
+.task-table td {
+  background-color: #fff;
+  padding: 15px 8px;
+}
+
+.link-icon-column {
+  width: 25px;
+  text-align: center;
+}
+
+.task-body>tr>td:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+.task-body>tr>td:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+.link-icon-column img {
+  width: 20px;
+}
+
+.task-body>tr{
+  border-radius: 8px;
+  box-shadow: 0 0 5px #9a9a9a;
+}
+
+
+.next{
+  position: relative;
+  margin-top: 10px;
+}
